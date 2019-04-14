@@ -16,4 +16,4 @@ https://public.tableau.com/profile/apurvagupta#!/vizhome/Understandingtheevoluti
 
 5. Final_Report: Main project report
 
-6. Visualization: PDF version of Tableau Visualization
+Visualization can be found on Tableau Link above.
