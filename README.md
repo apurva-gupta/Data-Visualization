@@ -1,2 +1,5 @@
-# Exploratory-Data-Analysis
-My project and assignments for exploratory data analysis for various data sets using ggplot2 extensively.
+# Date Visualization Projects
+
+Visualizing different datasets by using different tools like Python, R and Tableau.
+
+Tableau Link: https://public.tableau.com/profile/apurvagupta/
